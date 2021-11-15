@@ -1,5 +1,4 @@
 # Available-Education
-Available Education is online education app mission
 <!doctype html>
 <html>
  <head> 
