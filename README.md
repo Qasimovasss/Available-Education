@@ -1,5 +1,4 @@
-# Available-Education
-<!doctype html>
+<!Doctype html>
 <html>
  <head> 
   <meta charset="UTF-8"> 
